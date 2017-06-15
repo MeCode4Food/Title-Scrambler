@@ -1,0 +1,8 @@
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\bin\Release\Title Scrambler v0.2.exe.config
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\bin\Release\Title Scrambler v0.2.exe
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\bin\Release\Title Scrambler v0.2.pdb
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\obj\Release\Title_Scrambler_v0._2.Form1.resources
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\obj\Release\Title_Scrambler_v0._2.Properties.Resources.resources
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\obj\Release\Title Scrambler v0.2.csproj.GenerateResource.Cache
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\obj\Release\Title Scrambler v0.2.exe
+c:\users\inconspicuous\documents\visual studio 2015\Projects\Title Scrambler v0.2\Title Scrambler v0.2\obj\Release\Title Scrambler v0.2.pdb

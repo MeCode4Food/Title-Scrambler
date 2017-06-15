@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Title_Scrambler_v0._2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="temp_path" Type="System.String" Scope="User">
+      <Value Profile="(Default)">C:\Users\Inconspicuous\Desktop\temp_scramble</Value>
+    </Setting>
+    <Setting Name="temp_extension" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
